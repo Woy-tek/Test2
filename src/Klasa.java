@@ -6,5 +6,6 @@ public class Klasa {
         System.out.println("AAA");
         System.out.println("BBB");
 //aaa
+//bbb
     }
 }
