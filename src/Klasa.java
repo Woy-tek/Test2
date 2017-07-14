@@ -8,5 +8,6 @@ public class Klasa {
         System.out.println("CCC");
 //pierwsza zmiana
 //druga zmiana
+//trzecia zmiana
     }
 }
