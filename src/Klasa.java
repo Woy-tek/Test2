@@ -7,5 +7,6 @@ public class Klasa {
         System.out.println("BBB");
         System.out.println("CCC");
 //pierwsza zmiana
+//druga zmiana
     }
 }
