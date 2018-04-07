@@ -7,5 +7,6 @@ public class Klasa {
         System.out.println("BBB");
         System.out.println("CCC");
 //OOOO!!!! Zamiana WOW!
+        //lol
     }
 }
